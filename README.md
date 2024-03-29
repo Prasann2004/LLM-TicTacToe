@@ -34,6 +34,4 @@ But there was a twist . Some time model choose the positions which was not avail
 
 Even though I agree that the sample is very small but that was all I could do with free credits provided by Anthropic . I hope in future I may be able to expand the work to get more sample size and evaluate more models. **But still it was interesting which model understood the instruction better.**
 
-I would like to hear your thoughts and insights on topic .
-
-I can not include the link for data set and notebook as it is against Kaggle polices 🥲. 
+Data For 59 Games between Claude and Gemini : https://www.kaggle.com/datasets/newtonbaba12345/the-battle-between-llms-dataset
